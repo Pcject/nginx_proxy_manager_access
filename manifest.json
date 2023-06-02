@@ -7,7 +7,7 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://www.home-assistant.io/integrations/nginx_proxy_manager_access",
+  "documentation": "https://github.com/Pcject/nginx_proxy_manager_access",
   "homekit": {},
   "iot_class": "local_polling",
   "requirements": [
