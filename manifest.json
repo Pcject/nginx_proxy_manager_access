@@ -1,0 +1,18 @@
+{
+  "domain": "nginx_proxy_manager_access",
+  "name": "Nginx Proxy Manager Access",
+  "version": "1.0.0",
+  "codeowners": [
+    "@Pcject"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/nginx_proxy_manager_access",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [
+    "requests==2.28.2"
+  ],
+  "ssdp": [],
+  "zeroconf": []
+}
